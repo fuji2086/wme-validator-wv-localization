@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                WME Validator Localization for West Virginia
-// @namespace           https://greasyfork.org/en/users/45669
+// @namespace           https://greasyfork.org/en/users/456696-fuji2086
 // @version             1.1.5.4
 // @author              xanderb
 // @description         This script localizes WME Validator for West Virginia, USA. You also need main package (WME Validator) installed.
